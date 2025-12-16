@@ -11,7 +11,7 @@ In entrambe le galassie Magellaniche le popolazioni stellari mostrano un ampio i
 Il lavoro di tesi si basa sull’utilizzo dei dati astrometrici e fotometrici forniti dalla terza data-release della missione Gaia (EDR3) dell’Agenzia Spaziale Europea (ESA), il cui obiettivo è quello di studiare le popolazioni stellari della MW e del Gruppo Locale. <br>
 Tali dati di Gaia sono stati utilizzati perché rendono possibile la risoluzione delle stelle indagate. Infatti, a causa della distanza lungo la linea di vista, è frequente la sovrapposizione di stelle appartenenti alla SMC e alla MW, ciò rende quindi complesso l’isolamento delle sole stelle effettivamente presenti nella SMC. È possibile ovviare tale problema selezionando a livello cinematico le sole stelle interessate tramite le informazioni sui moti propri. In conclusione, occorre disporre di grandi cataloghi di alta precisione che permettano un censo accurato delle popolazioni stellari per escludere così eventuali contaminazioni da stelle esterne. Nei capitoli verranno approfonditi i fondamenti teorici alla base del lavoro e l’analisi
 svolta sui dati, fino a giungere alla discussione dei risultati finali e alle prospettive
-future. Nello specifico, il lavoro è strutturato come segue: 
+future. Nello specifico, il lavoro è strutturato come segue: <br>
     i. Fondamenti teorici che costituiscono la base di questo lavoro di tesi. <br>
     ii. Analisi approfondita degli strumenti adottati. <br>
     iii. Attività di raccolta, analisi ed elaborazione dei dati. <br>
